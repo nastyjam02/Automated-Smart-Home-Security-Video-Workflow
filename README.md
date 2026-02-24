@@ -1,4 +1,4 @@
-# Nasty
+# Automated-Smart-Home-Security-Video-Workflow
 
 #### 介绍
 视频数据预处理pipeline，本项目提出一个全自动的视频数据预处理pipeline，从原始视频下载开始，经过多级清洗、去重和内容分析，最终生成高质量、结构化的视频数据集。为后续针对智能家居安防的多模态模型训练，视频理解任务进行视频数据集构造。
